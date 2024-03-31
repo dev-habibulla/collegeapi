@@ -17,9 +17,9 @@ http://localhost:3000/api/updateinfo?id= 1
 
  => An API needs to be created to show the data of a single student.
 
-http://localhost:3000/api/showsingle
+http://localhost:3000/api/showsingle?id= 1
 
  => API should be created to get all students together.
 
-http://localhost:3000/api/allstudent?id= 1
+http://localhost:3000/api/allstudent
 
